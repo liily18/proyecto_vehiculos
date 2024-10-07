@@ -1,0 +1,25 @@
+.carousel-item img {
+    max-width: 100%;   /* Mantiene el ancho máximo en el 100% del contenedor */
+    max-height: 700px; /* Ajusta esta altura al tamaño que desees */
+    object-fit: cover; /* Mantiene el aspecto de la imagen */
+    
+}
+
+.carousel-inner{
+    justify-content: center; /* Centra horizontalmente */
+}
+
+
+.texto .h1{
+    justify-content: center;
+}
+
+footer {
+    margin-top: 40px; /* Ajusta este valor según lo necesites */
+  
+    }
+    
+.container {
+    text-align: center;
+}
+
